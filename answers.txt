@@ -27,3 +27,9 @@
         -done at the end of a sprint
         -discuss work completed over the sprint
         -move incomplete work to backlog
+
+(d)
+    Epic: Captures a large body of work and is broken down into stories
+    Story: Software system requirement that can be expressed in a few short sentences
+    Bug: A flaw or fault in the code that needs to be fixed
+    Task issue: A unit of work that can be tracked through a workflow
