@@ -7,3 +7,9 @@
         -less upfront predictability of scope, cost and time
         -can be challenging to scale
         -can cause buggy code to be delivered to customers
+
+(b)
+    Scrum Master: Handles all scrum related tasks, which include
+    JIRA tooling as well as facilitating sprints and meetings.
+    Project Owner: Sets direction for the team, handling releases
+    and managing stakeholders.
