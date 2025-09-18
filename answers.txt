@@ -13,3 +13,17 @@
     JIRA tooling as well as facilitating sprints and meetings.
     Project Owner: Sets direction for the team, handling releases
     and managing stakeholders.
+
+(c)
+    Sprint Planning Meeting:
+        -decide what needs to be completed in the coming sprint
+        -move stories from backlog to current sprint
+        -determine story points and assign stories to team
+    Daily Scrum/Standup Meeting:
+        -10 minutes each day of sprint
+        -go over previous day's work completed
+        -go over that day's work plan and blockers
+    Sprint Retrospective:
+        -done at the end of a sprint
+        -discuss work completed over the sprint
+        -move incomplete work to backlog
